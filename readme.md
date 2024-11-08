@@ -21,7 +21,7 @@ Marmeto Cart is a simple e-commerce shopping cart web application built with HTM
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/marmeto-cart.git
+   git clone https://github.com/a-rahman-ali/marmeto-cart.git
 
 2. Open the index.html file in your web browser.
 
