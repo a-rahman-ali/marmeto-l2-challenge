@@ -52,7 +52,7 @@ Marmeto Cart is a simple e-commerce shopping cart web application built with HTM
 - Special thanks to Marmeto for providing this opportunity to learn through this small challenge.
 
 ## Live Demo
-You can view the live deployed project here: [Marmeto Cart - Live Demo](https://marmeto-l2-challenge.netlify.app/)
+You can view the live deployed project here: [Marmeto Cart - Live Demo](https://a-rahman-ali.github.io/marmeto-l2-challenge/)
 
   
 For any questions or feedback, feel free to reach out!
